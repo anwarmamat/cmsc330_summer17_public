@@ -4,7 +4,7 @@ Due June 9th 2017
 
 Pair Project
 ------------
-This is a pair project. You may work on this with another student from CMSC330. Be sure you include both your name and your partner's name in the solution that you submit.
+This is a pair project. You may work on this with another student from CMSC330. Be sure you include both your name and your partner's name in the solution that you submit. Each student has to submit. During the entire semester, you are allowed to pair with the same student again for other projects.
 
 Introduction
 ------------
