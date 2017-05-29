@@ -256,6 +256,6 @@ Please **carefully read** the academic honesty section of the course syllabus. *
 [ancestry example]: image-resources/ancestry-example.png
 [symbol documentation]: https://ruby-doc.org/core-2.3.0/Symbol.html
 [interactive example]: image-resources/interactive-example.png
-[submit server]: submit.cs.umd.edu
+[submit server]: https://submit.cs.umd.edu
 [web submit link]: image-resources/web_submit.jpg
 [web upload example]: image-resources/web_upload.jpg
