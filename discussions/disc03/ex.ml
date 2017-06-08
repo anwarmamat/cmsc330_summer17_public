@@ -1,4 +1,3 @@
-64 lines (51 sloc)  1.25 KB
 (*
  * Determine the types of the following variables without entering them into the OCaml top-level
  *)
