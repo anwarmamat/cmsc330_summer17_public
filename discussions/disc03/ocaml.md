@@ -38,6 +38,10 @@ Everything in OCaml has a type
 
 ### Lists
 
+Like most languages, lists are defined with square brackets:  []
+
+Elements are separated by semicolons ; (instead of commas like in ruby)
+
 OCaml lists can only contain one type
 ```ocaml
 (* good *)
