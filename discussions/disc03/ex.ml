@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @JosephBergman
- Sign out
- Unwatch 27
-  Unstar 4
-  Fork 1 plum-umd/cmsc330 Private
- Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights
-Branch: master Find file Copy pathcmsc330/discussions/disc3/functions.ml
-cdcb363  on Feb 12
-@Bourg Bourg Public and release tests for p1, nearly final document
-1 contributor
-RawBlameHistory
 64 lines (51 sloc)  1.25 KB
 (*
  * Determine the types of the following variables without entering them into the OCaml top-level
@@ -77,5 +59,3 @@ let rec remove_greater ls n = failwith "unimplemented"
  *      Returns ls, reversed
  **)
 let rec reverse ls = failwith "unimplemented"
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
