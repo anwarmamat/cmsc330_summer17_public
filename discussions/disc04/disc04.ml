@@ -55,8 +55,8 @@ let rec tup_dests g n = failwith "unimplemented"
 (*
  * Example of how to use this
  *)
-tup_dests [(1,2);(1,3);(2,3)] 1;;
-tup_source [(1,2);(1,3);(2,3)] 3;;
+(* tup_dests [(1,2);(1,3);(2,3)] 1;;
+tup_source [(1,2);(1,3);(2,3)] 3;; *)
 
 
 (*************** Using Records ***************)
@@ -78,12 +78,12 @@ let rec source g n = failwith "unimplemented"
 (*
  * Example of how to use this
  *)
- let e1 = { src = 1; dst = 2 };;
+ (* let e1 = { src = 1; dst = 2 };;
  let e2 = { src = 1; dst = 3 };;
- let e3 = { src = 2; dst = 3 };;
+ let e3 = { src = 2; dst = 3 };; *)
 
- dests [e1;e2;e3] 1;;
- source [e1;e2;e3] 3;;
+ (* dests [e1;e2;e3] 1;;
+ source [e1;e2;e3] 3;; *)
 
 
 (*************** Using Map ***************)
