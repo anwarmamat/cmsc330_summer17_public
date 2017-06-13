@@ -1,6 +1,6 @@
 # Project 2B: OCaml Higher Order Functions and Data
 CMSC330, Summer 2017  
-Due June 19, 2017
+Due June 18, 2017
 
 Ground Rules and Extra Info
 ---------------------------
