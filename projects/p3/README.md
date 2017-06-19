@@ -4,11 +4,10 @@ Due June 30, 2017
 
 Ground Rules and Extra Info
 ---------------------------
-This **is** a pair project. You may work on this project alone or with one classmate.
+This **is** a pair project. You may work on this project alone or with one classmate. Be sure you include both your name and your partner's name in the solution that you submit. Each student has to submit. During the entire semester, you are NOT allowed to pair with the same student for more than one project.
 
 For this project you are allowed to use the library functions found in the [`Pervasives` module][pervasives doc], as well as functions from the [`List`][list doc] and [`String`][string doc] modules. As in the previous project, you are not allowed to use imperative OCaml (e.g. `ref` or `:=`), with the exception of the `next` function used to generate new NFA state numbers. You will receive a 0 for any functions using restricted features - we will be checking your code!
 
-Note that this project is due right after spring break. We do NOT intend for you to have work over spring break. The week and a half before break should be plenty of time to thoroughly work through this project. If you would like to work over break instead, we have left the option open, but by no means are you expected to. We want you to enjoy your break, and we want to enjoy ours too. Expect Piazza response times to be much longer over break if you choose to wait until then.
 
 Introduction
 ------------
@@ -241,10 +240,10 @@ Be sure to follow the project description exactly! Your solution will be graded 
 
 You can submit your project in two ways:
 
-* Submit both your `nfa.ml` and `regexp.ml` files directly to the [submit server](https://submit.cs.umd.edu/spring2017/view/index.jsp) by uploading both your files in two separate steps. Select your files using the "Browse" button, then press the "Submit project!" button. You do not need to put it in a zip file.
+* Submit both your `nfa.ml` and `regexp.ml` files directly to the [submit server](https://submit.cs.umd.edu/summer2017/view/index.jsp) by uploading both your files in two separate steps. Select your files using the "Browse" button, then press the "Submit project!" button. You do not need to put it in a zip file.
 
 * Submit directly by executing a the submission script on a computer with Java and network access. Included in this project are the submission scripts and related files listed under Project Files. These files should be in the directory containing your project. From there you can either execute `ruby submit.rb` or run the command `java -jar submit.jar` directly (this is all submit.rb does).
-No matter how you choose to submit your project, make sure that your submission is received by checking the [submit server](https://submit.cs.umd.edu/spring2017/view/index.jsp) after submitting.
+No matter how you choose to submit your project, make sure that your submission is received by checking the [submit server](https://submit.cs.umd.edu/summer2017/view/index.jsp) after submitting.
 
 Academic Integrity
 ------------------
