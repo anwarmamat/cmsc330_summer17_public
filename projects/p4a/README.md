@@ -4,7 +4,7 @@ Due July 7th, 2017
 
 Ground Rules and Extra Info
 ---------------------------
-This **is** a pair project. You may work on this project alone or with one classmate.
+This **is** a pair project. You may work on this project alone or with one classmate. Be sure you include both your name and your partner's name in the solution that you submit. Each student has to submit. You are NOT allowed to pair with the same student for more than one project. 
 
 In your code, you may use any non-imperative standard library functions (with the exception of printing), but the ones that will be useful to you will be found in the [`Pervasives` module][pervasives doc] and the [`List` module][list doc]. You may choose to use imperative OCaml, but are not required to.
 
