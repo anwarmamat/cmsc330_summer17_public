@@ -1,11 +1,11 @@
 # Submit server .submit file for
 #  Course CMSC330
-#  Project 3: SmallC Interpreter
+#  Project P4B: smallC Interpreter
 
 courseName=CMSC330
-semester=201701
-projectNumber=3
-courseKey=4b62f9f42de98f3c
+semester=201705
+projectNumber=P4B
+courseKey=9346ebaf88846123
 authentication.type=ldap
-baseURL=https://submit.cs.umd.edu:443/spring2017
-submitURL=https://submit.cs.umd.edu:443/spring2017/eclipse/SubmitProjectViaEclipse
+baseURL=https://submit.cs.umd.edu:443/summer2017
+submitURL=https://submit.cs.umd.edu:443/summer2017/eclipse/SubmitProjectViaEclipse
