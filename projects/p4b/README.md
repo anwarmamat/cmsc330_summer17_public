@@ -27,7 +27,8 @@ To begin this project, you will need to commit any uncommitted changes to your l
   - **eval.ml**: All of your code will all be written in the file `eval.ml`. _None of the files other than this one should be changed._
   - **eval.mli**: This is the _interface_ for `eval.ml`. It defines what types and functions are visible to modules outside of `eval.ml` (such as `smallc.ml`, listed below).
   - **studentTests.ml**: You aren't required to use this file, but you may use it to add your own tests to the project. We've included some small notes on writing OUnit tests and our test utilities for this project, which we discuss below if you're interested in this method of testing.
-  - **lexer.cm[oi]** and **parser.cm[oi]**: These precompiled object and interface files contain the lexer and parser used for turning plain files into OCaml datatypes. They are precompiled because you will implement your own parser in project 5.
+  - **lexer.cm[oi]** and **parser.cm[oi]**: These precompiled object and interface files contain the lexer and parser used for turning plain files into OCaml datatypes. They are precompiled. You can use the lexer and parser you implemeted for Project p4A.
+  
   - **public.ml** and **public_inputs/**: The public test driver file and the SmallC input files to go with it, respectively.
   - **smallc.ml**: A frontend to your interpreter used to build the `smallc` executable target. This is explained in more detail below.
   - **types.ml**: This file contains all type definitions used in this project.
