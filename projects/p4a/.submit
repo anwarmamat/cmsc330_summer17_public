@@ -1,10 +1,10 @@
 # Submit server .submit file for
 #  Course CMSC330
-#  Project P4: smallC Parser
+#  Project P4A: smallC Parser
 
 courseName=CMSC330
 semester=201705
-projectNumber=P4
+projectNumber=P4A
 courseKey=9346ebaf88846123
 authentication.type=ldap
 baseURL=https://submit.cs.umd.edu:443/summer2017
