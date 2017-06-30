@@ -3,6 +3,3 @@
 **/.metadata
 .DS_Store
 *~
-*.cmo
-*.cma
-*.cmi
