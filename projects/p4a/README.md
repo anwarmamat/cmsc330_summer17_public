@@ -251,7 +251,7 @@ The output is the exact same as in the statement parser, but `parse_main` also t
 
 Project Submission and Grading
 ------------------
-This project will be graded out of 140 points: 66 points public and 74 points release.
+This project will be graded out of 100 points: 46 points public and 54 points release.
 
 You should submit the files `lexer.ml` and `parser.ml` containing your solution. You may submit other files, but they will be ignored during grading. We will run your solution as individual OUnit tests just as in the provided public test file.
 
