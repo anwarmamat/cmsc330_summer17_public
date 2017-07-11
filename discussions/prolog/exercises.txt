@@ -1,0 +1,35 @@
+
+Write a rule that finds the length of a list
+?- length([1,2,3],X).
+X = 3.
+
+Write a rule that reverses a list
+?- reverse([1,2,3],L).
+L = [3,2,1]
+
+Write a rule that doubles each element in a list.
+?- dupli([a,b,c,c,d],X).
+X = [a,a,b,b,c,c,c,c,d,d]
+
+Write a rule that splits a list into two parts; the length of the first part is given.
+?- split([a,b,c,d,e,f,g,h,i,k],3,L1,L2).
+L1 = [a,b,c]
+L2 = [d,e,f,g,h,i,k]
+
+Write a rule that rotates a list N places to the left.
+?- rotate([a,b,c,d,e,f,g,h],3,X).
+X = [d,e,f,g,h,a,b,c]
+
+?- rotate([a,b,c,d,e,f,g,h],-2,X).
+X = [g,h,a,b,c,d,e,f]
+
+Write a rule that eliminates consecutive duplicates of list elements.
+?- compress([a,a,a,a,b,c,c,a,a,d,e,e,e,e],X).
+X = [a,b,c,a,d,e]
+
+Write a rule that generates the combinations of K distinct objects chosen from the N elements of a list
+?- combination(3,[a,b,c,d,e,f],L).
+L = [a,b,c] ;
+L = [a,b,d] ;
+L = [a,b,e] ;
+...
