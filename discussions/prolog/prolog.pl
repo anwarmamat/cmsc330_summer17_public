@@ -1,48 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Family Tree
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Family members.
-joe.
-mary.
-elaine.
-george.
-jana.
-tom.
-meg.
-knicki.
-jt.
-
-% Married couples
-married(joe,mary).
-married(elaine,george).
-married(tom,jana).
-
-% Parents
-parent(george,jana).
-parent(elaine,jana).
-parent(joe,tom).
-parent(mary,tom).
-parent(tom,meg).
-parent(jana,meg).
-parent(tom,knicki).
-parent(jana,knicki).
-parent(tom,jt).
-parent(jana,jt).
-
-% Siblings
-sibling(meg,jt).
-sibling(meg,knicki).
-sibling(jt,meg).
-sibling(jt,knicki).
-sibling(knicki,meg).
-sibling(knicki,jt).
-
-% Rules
-grandparent(X,G) :-
-	parent(P,X),
-	parent(G,P).
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Prolog Lists
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
