@@ -11,9 +11,9 @@ p(3).
 Write all of Prolog's answers to the following queries. 
 
 ```prolog
-?- P(X). 
-?- P(X),p(Y). 
-?- P(X),!,P(Y).
+?- p(X). 
+?- p(X),p(Y). 
+?- p(X),!,p(Y).
 ```
 
 
